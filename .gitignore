@@ -1,0 +1,9 @@
+.DS_Store
+.chromedrivers/
+*.png
+hooks/
+plugins/
+platforms/
+node_modules/
+res/
+appium.log
